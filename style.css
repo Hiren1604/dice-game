@@ -1,7 +1,7 @@
 h1 {
     font-family: "Lobster", sans-serif;
     color: #FF6969;
-    font-size: 8rem;  
+    font-size: 7rem;  
     text-shadow: 5px 0 #232931;
 }
 p {
@@ -18,7 +18,7 @@ body {
     background-color: #0C1844;
 }
 .container {
-    width: 70%;
+    width: 80%;
     text-align: center;
     margin: auto;
 }
